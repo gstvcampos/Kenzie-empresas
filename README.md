@@ -10,5 +10,4 @@ Kenzie Empresas é uma aplicação web desenvolvida para auxiliar proprietários
 
 ## Documentação e Repositórios
 
-- Código Base: [Kenzie Empresas - GitHub](https://github.com/gstvcampos/Kenzie-empresas)
 - Documentação da API: [Kenzie Empresas API - GitHub](https://github.com/gstvcampos/kenzie-empresas-API)
