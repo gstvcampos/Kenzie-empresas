@@ -1,7 +1,14 @@
-Bom Projeto!! 
+# Kenzie Empresas
 
-Doc: http://localhost:3333/api-documentation/
+Kenzie Empresas é uma aplicação web desenvolvida para auxiliar proprietários de empresas e seus colaboradores a obterem informações relevantes de acordo com seus níveis de acesso. Com uma interface intuitiva e funcional, a aplicação consome uma API existente, fornecendo uma experiência fluida e agradável.
 
-Fgima: https://www.figma.com/file/lrbOLWLRjonxYYVOxeLEQm/%5BM2%5D-%F0%9F%8F%81-Entrega---Kenzie-Empresas
+## Funcionalidades Principais
 
-APi Local: https://github.com/Kenzie-Academy-Brasil-Developers/kenzie-empresas-API
+- Página Inicial: Visualização e filtragem de empresas cadastradas, além de funcionalidades de cadastro e login.
+- Painel de Controle do Administrador: Recursos avançados para cadastro de departamentos, visualização de funcionários e gerenciamento de usuários.
+- Painel de Controle do Usuário Comum: Visualização das informações da empresa em que trabalha, incluindo departamento e colegas de trabalho.
+
+## Documentação e Repositórios
+
+- Código Base: [Kenzie Empresas - GitHub](https://github.com/gstvcampos/Kenzie-empresas)
+- Documentação da API: [Kenzie Empresas API - GitHub](https://github.com/gstvcampos/kenzie-empresas-API)
